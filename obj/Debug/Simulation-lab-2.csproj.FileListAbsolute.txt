@@ -1,0 +1,10 @@
+C:\Users\badma\source\repos\Simulation-lab-2\bin\Debug\Simulation-lab-2.exe.config
+C:\Users\badma\source\repos\Simulation-lab-2\bin\Debug\Simulation-lab-2.exe
+C:\Users\badma\source\repos\Simulation-lab-2\bin\Debug\Simulation-lab-2.pdb
+C:\Users\badma\source\repos\Simulation-lab-2\obj\Debug\Simulation-lab-2.csproj.AssemblyReference.cache
+C:\Users\badma\source\repos\Simulation-lab-2\obj\Debug\Simulation_lab_2.Form1.resources
+C:\Users\badma\source\repos\Simulation-lab-2\obj\Debug\Simulation_lab_2.Properties.Resources.resources
+C:\Users\badma\source\repos\Simulation-lab-2\obj\Debug\Simulation-lab-2.csproj.GenerateResource.cache
+C:\Users\badma\source\repos\Simulation-lab-2\obj\Debug\Simulation-lab-2.csproj.CoreCompileInputs.cache
+C:\Users\badma\source\repos\Simulation-lab-2\obj\Debug\Simulation-lab-2.exe
+C:\Users\badma\source\repos\Simulation-lab-2\obj\Debug\Simulation-lab-2.pdb
